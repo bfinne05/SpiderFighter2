@@ -3,7 +3,7 @@
 
 //creates effect that will let player know they are invincible
 if image_alpha = 1.0{
-	image_alpha = 0.3;
+	image_alpha = 0.5;
 }else{
 	image_alpha = 1.0;
 }
