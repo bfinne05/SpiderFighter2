@@ -27,6 +27,7 @@
     {"id":{"name":"spr_rocketAmmo","path":"sprites/spr_rocketAmmo/spr_rocketAmmo.yy",},"order":12,},
     {"id":{"name":"obj_easterEgg","path":"objects/obj_easterEgg/obj_easterEgg.yy",},"order":21,},
     {"id":{"name":"snd_fire","path":"sounds/snd_fire/snd_fire.yy",},"order":3,},
+    {"id":{"name":"snd_boss1_sound","path":"sounds/snd_boss1_sound/snd_boss1_sound.yy",},"order":15,},
     {"id":{"name":"spr_tile2","path":"sprites/spr_tile2/spr_tile2.yy",},"order":17,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":3,},
     {"id":{"name":"snd_level2","path":"sounds/snd_level2/snd_level2.yy",},"order":11,},
