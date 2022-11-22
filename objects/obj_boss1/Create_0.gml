@@ -3,3 +3,7 @@
 hp = 500;
 
 speed = 1.5;
+
+shieldInvincible = 0;
+
+alarm[0] = 100;

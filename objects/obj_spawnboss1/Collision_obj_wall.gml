@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-score = 0;
-BossSpawn1 = 0;
+x = clamp(x,0,room_width);
+y = clamp(y,0,room_height); 

@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},"order":0,},
     {"id":{"name":"spr_plane","path":"sprites/spr_plane/spr_plane.yy",},"order":21,},
+    {"id":{"name":"obj_spawnboss1","path":"objects/obj_spawnboss1/obj_spawnboss1.yy",},"order":26,},
     {"id":{"name":"obj_tutorial","path":"objects/obj_tutorial/obj_tutorial.yy",},"order":19,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
     {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},"order":3,},
@@ -41,6 +42,7 @@
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},"order":8,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},
     {"id":{"name":"rm_death","path":"rooms/rm_death/rm_death.yy",},"order":5,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":27,},
     {"id":{"name":"snd_shoot","path":"sounds/snd_shoot/snd_shoot.yy",},"order":0,},
     {"id":{"name":"spr_fire","path":"sprites/spr_fire/spr_fire.yy",},"order":7,},
     {"id":{"name":"spr_final_boss","path":"sprites/spr_final_boss/spr_final_boss.yy",},"order":26,},
