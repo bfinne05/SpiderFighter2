@@ -76,6 +76,7 @@
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},"order":8,},
     {"id":{"name":"snd_boss1_joke","path":"sounds/snd_boss1_joke/snd_boss1_joke.yy",},"order":9,},
     {"id":{"name":"spr_darktile","path":"sprites/spr_darktile/spr_darktile.yy",},"order":6,},
+    {"id":{"name":"snd_boss2_sound","path":"sounds/snd_boss2_sound/snd_boss2_sound.yy",},"order":16,},
     {"id":{"name":"obj_rocketammo","path":"objects/obj_rocketammo/obj_rocketammo.yy",},"order":11,},
     {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},"order":6,},
     {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},"order":2,},
