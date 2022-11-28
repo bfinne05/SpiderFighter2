@@ -13,6 +13,7 @@
     {"id":{"name":"spr_daddy","path":"sprites/spr_daddy/spr_daddy.yy",},"order":15,},
     {"id":{"name":"obj_daddy","path":"objects/obj_daddy/obj_daddy.yy",},"order":14,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":4,},
+    {"id":{"name":"obj_Variables","path":"objects/obj_Variables/obj_Variables.yy",},"order":27,},
     {"id":{"name":"obj_enemyspawner","path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},"order":5,},
     {"id":{"name":"snd_explosion","path":"sounds/snd_explosion/snd_explosion.yy",},"order":4,},
     {"id":{"name":"snd_rocket","path":"sounds/snd_rocket/snd_rocket.yy",},"order":5,},

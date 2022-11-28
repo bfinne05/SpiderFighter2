@@ -29,8 +29,11 @@ else
 	draw_text(cx + (cw / 2) + 350, cy + 25,"Weapon: Rockets");
 }
 
-if(score >= 5 && BossSpawn1 = 0)
+if(score >= 5 && BossSpawn1 = 0 && global.level = 0)
 {
 	instance_create_layer(x,y,"ScoreLayer", obj_spawnboss1);
 	BossSpawn1 = 1;
+	global.level++;
 }
+
+

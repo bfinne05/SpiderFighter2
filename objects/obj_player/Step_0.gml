@@ -25,7 +25,7 @@ if(mouse_check_button(mb_left)) && (cooldown < 1)
 {
 	switch(weaponSelect){
 		case(0):
-		audio_play_sound(snd_shoot, 0 ,false);
+		audio_play_sound(snd_fire, 0 ,false);
 		instance_create_layer(x, y, "BulletLayer", obj_bullet);
 		cooldown = 10;
 		break;
@@ -55,7 +55,6 @@ if(health <= 0){
 	audio_stop_all();
 	room_goto(rm_death);
 }
-
 
 
 
