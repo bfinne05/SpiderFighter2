@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-hp = 500;
 
-speed = 1.5;
-
-alarm[0] = 100;
+instance_create_layer(x, y, "InstanceLayer", obj_enemy);
+instance_destroy();

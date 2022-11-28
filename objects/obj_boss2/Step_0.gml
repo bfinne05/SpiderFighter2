@@ -9,7 +9,7 @@ image_angle = direction;
 
 if(hp <= 0)
 {
-	with(obj_score) score = score + 500;
+	with(obj_score) score = score + 1000;
 	global.TotalScore = global.TotalScore + score;
 	audio_play_sound(snd_death, 0 ,false);
 	

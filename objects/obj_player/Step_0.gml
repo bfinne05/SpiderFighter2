@@ -53,6 +53,7 @@ cooldown = cooldown - 1;
 //check if dead
 if(health <= 0){
 	audio_stop_all();
+	global.TotalScore = global.TotalScore + score;
 	room_goto(rm_death);
 }
 
