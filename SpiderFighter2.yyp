@@ -38,6 +38,7 @@
     {"id":{"name":"spr_tile2","path":"sprites/spr_tile2/spr_tile2.yy",},"order":17,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":3,},
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":3,},
+    {"id":{"name":"obj_spawnboss2","path":"objects/obj_spawnboss2/obj_spawnboss2.yy",},"order":31,},
     {"id":{"name":"snd_level2","path":"sounds/snd_level2/snd_level2.yy",},"order":11,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":23,},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},"order":7,},

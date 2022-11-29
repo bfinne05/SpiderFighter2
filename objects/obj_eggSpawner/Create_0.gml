@@ -3,3 +3,5 @@
 speed = 1.0;
 
 alarm[0] = 2;
+
+tick = 0;
