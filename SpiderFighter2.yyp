@@ -41,6 +41,7 @@
     {"id":{"name":"snd_level2","path":"sounds/snd_level2/snd_level2.yy",},"order":11,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":23,},
     {"id":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},"order":7,},
+    {"id":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},"order":9,},
     {"id":{"name":"spr_fireAmmo","path":"sprites/spr_fireAmmo/spr_fireAmmo.yy",},"order":11,},
     {"id":{"name":"spr_explosion","path":"sprites/spr_explosion/spr_explosion.yy",},"order":9,},
     {"id":{"name":"spr_bossbullet1","path":"sprites/spr_bossbullet1/spr_bossbullet1.yy",},"order":26,},
@@ -113,6 +114,7 @@
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
+    {"roomId":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
