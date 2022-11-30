@@ -20,13 +20,18 @@ cooldown = 0;
 
 if(global.level = 0 && audio = 0)
 {
-audio_play_sound(snd_level1, 1 ,true);
+audio_play_sound(snd_level1, 0 ,true);
 audio = 1;
 }
 
 if(global.level = 1 && audio = 0)
 {
-audio_play_sound(snd_level2, 1 ,true);
+audio_play_sound(snd_level2, 0 ,true);
 audio = 1;
 }
 
+if(global.level = 2 && audio = 0)
+{
+audio_play_sound(snd_level3, 0 ,true);
+audio = 1;
+}

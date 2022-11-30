@@ -42,3 +42,10 @@ if(score >= 5 && BossSpawn1 = 0 && global.level = 1)
 	BossSpawn1 = 1;
 	global.level++;
 }
+
+if(score >= 5 && BossSpawn1 = 0 && global.level = 1)
+{
+	instance_create_layer(x,y,"ScoreLayer", obj_spawnboss2);
+	BossSpawn1 = 1;
+	global.level++;
+}

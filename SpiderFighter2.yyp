@@ -75,6 +75,7 @@
     {"id":{"name":"spr_eggspawner","path":"sprites/spr_eggspawner/spr_eggspawner.yy",},"order":29,},
     {"id":{"name":"snd_sheild","path":"sounds/snd_sheild/snd_sheild.yy",},"order":7,},
     {"id":{"name":"obj_explosion","path":"objects/obj_explosion/obj_explosion.yy",},"order":9,},
+    {"id":{"name":"obj_boss3","path":"objects/obj_boss3/obj_boss3.yy",},"order":32,},
     {"id":{"name":"rm_instuctions","path":"rooms/rm_instuctions/rm_instuctions.yy",},"order":4,},
     {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},"order":6,},
     {"id":{"name":"obj_fireammo","path":"objects/obj_fireammo/obj_fireammo.yy",},"order":10,},
