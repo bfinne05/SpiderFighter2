@@ -9,9 +9,8 @@ image_angle = direction;
 
 if(hp <= 0)
 {
-	with(obj_score) score = score + 1000;
-	global.TotalScore = global.TotalScore + score;
+	with(obj_score) score = score + 250;
 	audio_play_sound(snd_death, 0 ,false);
-	instance_create_layer(x, y, "BulletLayer", obj_eggspawnDelete);
+	
 	instance_destroy();
 }
