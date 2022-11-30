@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-hp = 1200;
+hp = 800;
 
 speed = 1.0;
 
