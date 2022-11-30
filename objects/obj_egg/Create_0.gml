@@ -7,4 +7,4 @@ direction = direction + random_range(-4,4);
 speed = 3;
 image_angle = direction;
 
-alarm[0] = 5
+alarm[0] = 5 * room_speed;

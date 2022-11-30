@@ -3,7 +3,8 @@
 
 if (instance_exists(obj_boss2))
 {
-    move_towards_point(obj_boss2.x, obj_boss2.y, speed);
+    x = obj_boss2.x;
+	y = obj_boss2.y;
 }
 
 if(tick = 5)
