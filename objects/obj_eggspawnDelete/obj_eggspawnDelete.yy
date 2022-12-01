@@ -7,7 +7,7 @@
     "path": "sprites/spr_deleteeggspawner/spr_deleteeggspawner.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
