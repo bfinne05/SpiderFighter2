@@ -8,6 +8,6 @@ hp = 1200;
 
 speed = 1.0;
 
-alarm[0] = 100;
+alarm[0] = 10 * room_speed;
 
 

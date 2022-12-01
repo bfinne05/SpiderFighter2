@@ -7,5 +7,5 @@ draw_set_font(fnt_score);
 draw_set_color(c_red);
 draw_text((room_width / 2), 250, "You Died");
 draw_set_color(c_white);
-draw_text((room_width / 2), 325, "Score: " + string(score));
+draw_text((room_width / 2), 325, "Total Score: " + string(global.TotalScore));
 draw_text((room_width / 2), 400, "Enter - Credits");

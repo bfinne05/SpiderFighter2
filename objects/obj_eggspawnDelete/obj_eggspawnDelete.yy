@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_boss_egg",
+  "name": "obj_eggspawnDelete",
   "spriteId": {
-    "name": "spr_boss_egg",
-    "path": "sprites/spr_boss_egg/spr_boss_egg.yy",
+    "name": "spr_deleteeggspawner",
+    "path": "sprites/spr_deleteeggspawner/spr_deleteeggspawner.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,7 +27,6 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],

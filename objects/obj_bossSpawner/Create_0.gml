@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+speed = 1.0;
 
-instance_create_layer(x, y, "EnemyLayer", obj_enemy);
-instance_destroy();
+alarm[0] = 2 * room_speed;
+
+tick = 0;
