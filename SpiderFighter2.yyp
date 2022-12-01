@@ -87,6 +87,7 @@
     {"id":{"name":"spr_ember","path":"sprites/spr_ember/spr_ember.yy",},"order":20,},
     {"id":{"name":"obj_bossbullet1","path":"objects/obj_bossbullet1/obj_bossbullet1.yy",},"order":25,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"snd_score_screen","path":"sounds/snd_score_screen/snd_score_screen.yy",},"order":16,},
     {"id":{"name":"spr_tile3","path":"sprites/spr_tile3/spr_tile3.yy",},"order":23,},
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},"order":8,},
     {"id":{"name":"snd_boss1_joke","path":"sounds/snd_boss1_joke/snd_boss1_joke.yy",},"order":9,},
