@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-audio_stop_all();
-room_goto(rm_level2);
+image_xscale = 0.1;
+image_yscale = 0.1;

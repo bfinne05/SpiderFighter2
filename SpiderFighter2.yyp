@@ -30,6 +30,7 @@
     {"id":{"name":"snd_finalboss","path":"sounds/snd_finalboss/snd_finalboss.yy",},"order":14,},
     {"id":{"name":"spr_egg","path":"sprites/spr_egg/spr_egg.yy",},"order":28,},
     {"id":{"name":"spr_rocketAmmo","path":"sprites/spr_rocketAmmo/spr_rocketAmmo.yy",},"order":12,},
+    {"id":{"name":"obj_spawnboss3","path":"objects/obj_spawnboss3/obj_spawnboss3.yy",},"order":37,},
     {"id":{"name":"spr_tile4","path":"sprites/spr_tile4/spr_tile4.yy",},"order":30,},
     {"id":{"name":"obj_easterEgg","path":"objects/obj_easterEgg/obj_easterEgg.yy",},"order":21,},
     {"id":{"name":"TileSet5","path":"tilesets/TileSet5/TileSet5.yy",},"order":4,},
@@ -67,6 +68,7 @@
     {"id":{"name":"spr_fire","path":"sprites/spr_fire/spr_fire.yy",},"order":7,},
     {"id":{"name":"spr_final_boss","path":"sprites/spr_final_boss/spr_final_boss.yy",},"order":26,},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},"order":8,},
+    {"id":{"name":"rm_levelFL","path":"rooms/rm_levelFL/rm_levelFL.yy",},"order":10,},
     {"id":{"name":"obj_widow","path":"objects/obj_widow/obj_widow.yy",},"order":16,},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"order":5,},
     {"id":{"name":"obj_spawndaddy","path":"objects/obj_spawndaddy/obj_spawndaddy.yy",},"order":15,},
@@ -124,6 +126,7 @@
     {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"roomId":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
+    {"roomId":{"name":"rm_levelFL","path":"rooms/rm_levelFL/rm_levelFL.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
