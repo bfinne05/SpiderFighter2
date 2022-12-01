@@ -3,9 +3,9 @@
 
 
 global.RocketAmmo = global.RocketAmmo + 3;
-if(global.RocketAmmo > 10)
+if(global.RocketAmmo > 20)
 {
-	global.RocketAmmo = 10;
+	global.RocketAmmo = 20;
 }
 audio_play_sound(snd_pickup, 0 ,false);
 with other{

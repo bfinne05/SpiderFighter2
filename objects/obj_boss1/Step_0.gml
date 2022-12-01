@@ -11,7 +11,7 @@ if(hp <= 0)
 {
 	with(obj_score) score = score + 500;
 	global.TotalScore = global.TotalScore + score;
-	audio_play_sound(snd_death, 0 ,false);
+	audio_play_sound(snd_boss1_sound, 0 ,false);
 	
 	instance_destroy();
 }
