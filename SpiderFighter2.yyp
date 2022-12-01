@@ -76,6 +76,7 @@
     {"id":{"name":"spr_boss_egg","path":"sprites/spr_boss_egg/spr_boss_egg.yy",},"order":32,},
     {"id":{"name":"spr_sheild","path":"sprites/spr_sheild/spr_sheild.yy",},"order":13,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":4,},
+    {"id":{"name":"snd_credits","path":"sounds/snd_credits/snd_credits.yy",},"order":17,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":1,},
     {"id":{"name":"spr_eggspawner","path":"sprites/spr_eggspawner/spr_eggspawner.yy",},"order":29,},
     {"id":{"name":"snd_sheild","path":"sounds/snd_sheild/snd_sheild.yy",},"order":7,},
