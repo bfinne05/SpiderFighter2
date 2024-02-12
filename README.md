@@ -1,2 +1,2 @@
 # SpiderFighter2
-The Sequal to Spider Fighter
+The Sequel to Spider Fighter
